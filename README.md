@@ -1,7 +1,7 @@
 # Warehouse Wreckage
 Latest Release: v1.0.0
 
-Warehouse wreckage is a simple game where the objective is in the title: wreck the warehouse! 
+Warehouse wreckage is a simple game where the objective is in the title: wreck the warehouse! This game was made using blueprints while following an Unreal Engine 5 course.
 
 ___
 
