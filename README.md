@@ -10,5 +10,4 @@ Look Around: Mouse
 Move: WASD  
 Launch: Space  
 
-
-![ezgif-1-5a6cd09ea9](https://user-images.githubusercontent.com/55307055/209449996-d7832f0e-ce0d-4af3-bee7-46e5fe4e385b.gif)
+![ezgif-1-74330b9beb](https://user-images.githubusercontent.com/55307055/209450267-543a75f4-2bc6-4bf5-b606-ff34ce92a94e.gif)
